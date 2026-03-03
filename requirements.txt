@@ -1,0 +1,6 @@
+# Required dependencies for the Python bot
+requests
+flask
+sqlalchemy
+
+# Other dependencies can be added here as required
